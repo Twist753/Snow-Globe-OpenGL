@@ -3,7 +3,6 @@
 Controls:
 
     Shake -> S
-    
     Night Mode -> N
     Camera Angle Reset -> R
     Zoom in/out -> +/-
